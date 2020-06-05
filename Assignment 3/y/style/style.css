@@ -1,0 +1,177 @@
+body{
+    color: #666666 !important;
+    width: 100%;
+    font-size:14px !important;
+    font-family: 'Merriweather', serif !important;
+}
+
+.header{
+    height:48px; 
+    background-color:#316DC3;
+    
+   
+}
+.header-social-icons a{
+    font-size:14px;
+    height:40px;
+    line-height: 30px;
+    margin-right:20px;
+    width:40px;
+}
+
+
+
+.header-social-icons a:hover{
+    font-size:15px;
+    height:40px;
+    line-height: 30px;
+    margin-right:20px;
+    width:40px;
+    background-color:#316DC3
+}
+
+
+.image-size>img
+{
+width:200px; 
+}
+
+.menus2>a{
+    font-size:20px !important;
+    color: #333333;
+    font-weight: 600;
+    font-size: 13px !important;
+    border-radius: 15px;
+
+} 
+
+
+
+.menus2 a:hover {
+        background-color: #316DC3;
+        color:white;
+        border-radius: 15px;
+    }
+
+
+
+
+.indicator{
+    margin-left:3px;
+}
+
+.carouselExampleSlidesOnly{
+    height:400px !important;
+}
+
+
+.marquee_setting{
+    background-color: #316DC3 !important;
+    width:100%;
+    color:white;
+    font-size:16px;
+}
+.section-title{
+    margin-bottom:30px;
+}
+
+h1,h2,h6{
+   text-align: center;
+    font-family: 'Merriweather', serif;
+    line-height: 1.42857143;
+    color: #316DC3;
+    font-weight: 600;
+}
+
+h3{
+    
+    font-family: 'Merriweather', serif;
+    line-height: 1.42857143;
+    color: #316DC3;
+    font-size:24px;
+}
+
+
+.blue_portion{
+    background-color:#316DC3 !important;
+    height:280px;
+
+}
+
+.text-success{
+ color: #427900 !important;   
+}
+
+.text-successes{
+    color: #00FF00 !important;   
+
+}
+
+.large_font{
+    font-size:3rem;
+    font-weight: bold;
+}
+h5{
+    font-size:14px;
+    font-weight:bold;
+}
+.boxshadow{
+    height:180px;
+}
+
+.mt-20{
+    margin-top:20px;
+}
+.h4-font-size{
+   font-size: 18px !important;
+   color:#316DC3;
+   font-weight:600 !important;
+}
+
+.card{
+    margin-top: 10px;
+    width:100%;
+    background-color: #f7f8fa !important;
+    height:68px;
+}
+
+
+.card-text-h4{
+    font-size:15px !important;
+    color: #316DC3;
+    font-weight: 500 !important;
+    margin-top: -20px !important;
+    margin-left: 70px !important;
+    margin-bottom:10px;
+}
+
+.img_setting{
+    width: 200px;
+
+}
+.footer{
+    background-color:#25272E;
+}
+
+.next{
+    float: left;
+    margin-right: 30px;
+}
+
+.scrollToTop {
+    background: rgba(0, 0, 0, 0.1);
+    bottom: 15px;
+    display: none;
+    height: 50px;
+    padding: 2px;
+    position: fixed;
+    right: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;}
+
+
+    .scrollToTop i {
+        color: #fff !important;
+        font-size: 42px;}

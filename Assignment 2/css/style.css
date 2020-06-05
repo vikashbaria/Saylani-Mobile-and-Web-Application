@@ -1,0 +1,58 @@
+
+.header{
+    text-align: center;
+    color: #715cc3;
+}
+
+.bg_center_element{
+    background-color: #6b5acd;
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid #1c1479;
+}
+
+.first_table{
+    color: white;
+    padding-top: 10px;
+    padding-left:10px;
+
+}
+
+
+table{
+    color: white;
+}
+
+td{
+    padding:10px;   
+}
+
+.button_center{
+    margin-left: 40%;
+    border-radius:4px
+
+}
+
+.tick_img{
+    display: block;
+    padding-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    width:150px;
+  
+}
+
+p{
+    text-align: center;
+    color:#782fb2;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+a{
+    text-align: center;
+    margin-left:48%;
+    font-weight: bold;
+}
